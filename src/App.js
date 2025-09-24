@@ -12,7 +12,7 @@ import {
 
 function App() {
   return ( 
-    <Router>
+    <Router  basename="/Event-Manager>
       <Routes>
         <Route path="/" element={<Login />} />
         <Route path="/register" element={<Register />} />
