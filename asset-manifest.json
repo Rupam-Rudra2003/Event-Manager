@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/events-manager/static/css/main.9e097cdc.css",
-    "main.js": "/events-manager/static/js/main.67dfdbbb.js",
-    "static/js/453.4d2bab0d.chunk.js": "/events-manager/static/js/453.4d2bab0d.chunk.js",
-    "index.html": "/events-manager/index.html",
-    "main.9e097cdc.css.map": "/events-manager/static/css/main.9e097cdc.css.map",
-    "main.67dfdbbb.js.map": "/events-manager/static/js/main.67dfdbbb.js.map",
-    "453.4d2bab0d.chunk.js.map": "/events-manager/static/js/453.4d2bab0d.chunk.js.map"
+    "main.css": "/Event-Manager/static/css/main.9e097cdc.css",
+    "main.js": "/Event-Manager/static/js/main.f6652c13.js",
+    "static/js/453.4d2bab0d.chunk.js": "/Event-Manager/static/js/453.4d2bab0d.chunk.js",
+    "index.html": "/Event-Manager/index.html",
+    "main.9e097cdc.css.map": "/Event-Manager/static/css/main.9e097cdc.css.map",
+    "main.f6652c13.js.map": "/Event-Manager/static/js/main.f6652c13.js.map",
+    "453.4d2bab0d.chunk.js.map": "/Event-Manager/static/js/453.4d2bab0d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9e097cdc.css",
-    "static/js/main.67dfdbbb.js"
+    "static/js/main.f6652c13.js"
   ]
 }
